@@ -1,0 +1,2 @@
+## Why this project?
+Instead of building a generic test script for a random site, I chose SauceDemo as the benchmark to intentionally focus on advanced engineering patterns. By working on a standardized platform, I can eliminate business logic ambiguity and shift 100% of the focus to demonstrating framework scalability, architectural refactoring (from scratch to clean POM), and robust custom fixtures.
